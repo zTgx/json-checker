@@ -1,0 +1,20 @@
+
+[package]
+name = "json-checker"
+version = "0.1.0"
+authors = ["zTgx <beautifularea@163.com>"]
+edition = "2018"
+repository = "https://github.com/json-checker.git"
+readme = "README.md"
+keywords = [ "json", "checker" ]
+categories = [ "api-bindings" ]
+license = "MIT/Apache-2.0"
+exclude = [ "/.travis.yml" ]
+description = "a wrapper around JSON-c"
+build = "build.rs"
+
+[dependencies]
+libc = "0.2"
+
+[build-dependencies]
+cc = ">= 1.0.28"

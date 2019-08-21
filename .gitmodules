@@ -1,0 +1,3 @@
+[submodule "depend/JSON-c"]
+	path = depend/JSON-c
+	url = https://github.com/douglascrockford/JSON-c.git
