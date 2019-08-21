@@ -1,4 +1,4 @@
-# [json-checker](https://github.com/zTgx/json-checker.git)  [![Build Status](https://travis-ci.org/zTgx/json-checker.svg?branch=master)](https://travis-ci.org/zTgx/json-checker) 
+# [json-checker](https://github.com/zTgx/json-checker.git)  [![Build Status](https://travis-ci.org/zTgx/json-checker.svg?branch=master)](https://travis-ci.org/zTgx/json-checker) [![crate](https://img.shields.io/crates/v/json-checker.svg)](https://crates.io/crates/json-checker) 
 
 A wrapper around [JSON-c](https://github.com/douglascrockford/JSON-c.git), a light-weight json checker by Douglas Crockford . 
 
